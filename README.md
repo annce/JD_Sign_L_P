@@ -36,7 +36,7 @@
 
 
 
-## 效果截图
+## 效果截图  1
 
 ![WechatIMG3](./images/WechatIMG3.jpeg)
 
@@ -49,4 +49,4 @@
 * [jerrykuku/luci-app-jd-dailybonus](https://github.com/jerrykuku/luci-app-jd-dailybonus)
 
 
-L/P  -
+L/P  -  10/28
