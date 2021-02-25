@@ -49,4 +49,4 @@
 * [jerrykuku/luci-app-jd-dailybonus](https://github.com/jerrykuku/luci-app-jd-dailybonus)
 
 
-L/P  -  1/26
+L/P  -  2/25
