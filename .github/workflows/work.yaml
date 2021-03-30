@@ -4,8 +4,8 @@ on:
     push:
         branches:
             - master
-    schedule:
-        - cron: '3 23 * * *'
+    #schedule:
+    #    - cron: '3 23 * * *'
     
 env:
   JD_COOKIE: ${{ secrets.JD_COOKIE }}
